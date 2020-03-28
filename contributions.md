@@ -57,3 +57,4 @@ following the same syntax.
 | 8 | [Added a picture](https://en.wikipedia.org/wiki/Mariscal_Sucre_International_Airport)| Wikipedia Edit | I added a photo I took outside of Mariscal Sucre International Airport|
 | 8 | [Added a picture](https://en.wikipedia.org/wiki/Salinas,_Ecuador)| Wikipedia Edit |Added a photo I took of at La Chocolatera, which is located at Salinas, Ecuador |
 | 9 | [Added a picture](https://en.wikipedia.org/wiki/Quito#Museums)| Wikipedia Edit |Added a picture of a museum mentioned in the article|
+| 9 | [Added a picture](https://en.wikipedia.org/wiki/Cuenca,_Ecuador#Main_sights)| Wikipedia Edit |Added a picture of a museum mentioned in the article|

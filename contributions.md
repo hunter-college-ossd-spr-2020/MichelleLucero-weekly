@@ -58,3 +58,4 @@ following the same syntax.
 | 8 | [Added a picture](https://en.wikipedia.org/wiki/Salinas,_Ecuador)| Wikipedia Edit |Added a photo I took of at La Chocolatera, which is located at Salinas, Ecuador |
 | 9 | [Added a picture](https://en.wikipedia.org/wiki/Quito#Museums)| Wikipedia Edit |Added a picture of a museum mentioned in the article|
 | 9 | [Added a picture](https://en.wikipedia.org/wiki/Cuenca,_Ecuador#Main_sights)| Wikipedia Edit |Added a picture of a museum mentioned in the article|
+| 9 | [Fixed typo](https://github.com/zeit/next.js/pull/11435)| Next.js Edit | Corrected typo "libraray" to "library"|

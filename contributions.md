@@ -56,3 +56,4 @@ following the same syntax.
 | 8 | [Added a Medical Center](https://www.openstreetmap.org/changeset/82493580)| OSM Edit | Fixed the outline of the Medical Center and added the Medical Center itself |
 | 8 | [Added a picture](https://en.wikipedia.org/wiki/Mariscal_Sucre_International_Airport)| Wikipedia Edit | I added a photo I took outside of Mariscal Sucre International Airport|
 | 8 | [Added a picture](https://en.wikipedia.org/wiki/Salinas,_Ecuador)| Wikipedia Edit |Added a photo I took of at La Chocolatera, which is located at Salinas, Ecuador |
+| 9 | [Added a picture](https://en.wikipedia.org/wiki/Quito#Museums)| Wikipedia Edit |Added a picture of a museum mentioned in the article|

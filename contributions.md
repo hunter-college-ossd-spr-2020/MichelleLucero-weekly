@@ -59,3 +59,5 @@ following the same syntax.
 | 9 | [Added a picture](https://en.wikipedia.org/wiki/Quito#Museums)| Wikipedia Edit |Added a picture of a museum mentioned in the article|
 | 9 | [Added a picture](https://en.wikipedia.org/wiki/Cuenca,_Ecuador#Main_sights)| Wikipedia Edit |Added a picture of a museum mentioned in the article|
 | 9 | [Fixed typo](https://github.com/zeit/next.js/pull/11435)| Next.js Edit | Corrected typo "libraray" to "library"|
+| 10 | [https://en.wikipedia.org/wiki/Bibli%C3%A1n_Canton](Added a section)| Wikipedia Edit| Added the "Points of Interest" section and included one point |
+| 10 | [Added a picture](https://en.wikipedia.org/wiki/Bibli%C3%A1n_Canton)| Wikipedia Edit | Added a picture of El Santuario de la Virgen del Rocío|

@@ -62,3 +62,4 @@ following the same syntax.
 | 10 | [Added a section](https://en.wikipedia.org/wiki/Bibli%C3%A1n_Canton)| Wikipedia Edit| Added the "Points of Interest" section and included one point |
 | 10 | [Added a picture](https://en.wikipedia.org/wiki/Bibli%C3%A1n_Canton)| Wikipedia Edit | Added a picture of El Santuario de la Virgen del Rocío|
 | 10 | [Fixed minor grammatical error](https://github.com/hunter-college-ossd-spr-2020/sdhani-weekly/pull/5)| Blog Edit | "Then" was used in a sentence describing a comparison, so I changed it to "than"|
+| 10 | [Rephrased a Sentence](https://github.com/hunter-college-ossd-spr-2020/Megamega53-weekly/pull/11)| Blog edit| Fixed misuse of "could", past tense error, and rephrased a sentence for clarity|

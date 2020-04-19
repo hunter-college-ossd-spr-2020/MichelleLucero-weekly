@@ -61,3 +61,4 @@ following the same syntax.
 | 9 | [Fixed typo](https://github.com/zeit/next.js/pull/11435)| Next.js Edit | Corrected typo "libraray" to "library"|
 | 10 | [Added a section](https://en.wikipedia.org/wiki/Bibli%C3%A1n_Canton)| Wikipedia Edit| Added the "Points of Interest" section and included one point |
 | 10 | [Added a picture](https://en.wikipedia.org/wiki/Bibli%C3%A1n_Canton)| Wikipedia Edit | Added a picture of El Santuario de la Virgen del Rocío|
+| 10 | [Fixed minor grammatical error](https://github.com/hunter-college-ossd-spr-2020/sdhani-weekly/pull/5)| Blog Edit | "Then" was used in a sentence describing a comparison, so I changed it to "than"|

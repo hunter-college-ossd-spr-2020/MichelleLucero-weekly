@@ -64,3 +64,4 @@ following the same syntax.
 | 10 | [Fixed minor grammatical error](https://github.com/hunter-college-ossd-spr-2020/sdhani-weekly/pull/5)| Blog Edit | "Then" was used in a sentence describing a comparison, so I changed it to "than"|
 | 10 | [Rephrased a Sentence](https://github.com/hunter-college-ossd-spr-2020/Megamega53-weekly/pull/11)| Blog edit| Fixed misuse of "could", past tense error, and rephrased a sentence for clarity|
 | 11 | [Updated stat](https://github.com/CSSEGISandData/COVID-19/pull/2400)| COVID Data Edit |Updated the correct number of confirmed cases for Maine on 4-25-20|
+| 11 | [Added commas and rearranged words](https://github.com/hunter-college-ossd-spr-2020/MaiteFlores-weekly/pull/9)| Blog Edit| Added commas to introductory phrases and rearranged words for better flow|
